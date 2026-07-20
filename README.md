@@ -15,6 +15,7 @@ A personal repository for learning, experimenting, and building projects with NV
 - NVIDIA GPU
 - NVIDIA Driver
 - CUDA Toolkit
+- C++ Compiler (GCC/Clang)
 
 ## Build
 
