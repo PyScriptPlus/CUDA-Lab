@@ -38,3 +38,9 @@ Run:
 ---
 
 <img width="5360" height="5435" alt="Image" src="https://github.com/user-attachments/assets/20cbfd87-db83-4b30-9afe-46103d48107c" />
+
+---
+## Output from the program with graphic monitoring:
+
+<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/67a95ce4-e0d1-4149-8776-f5c4225e0d26" />
+<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/b9da2dbe-b03e-4752-9f15-4bfa53186a69" />
